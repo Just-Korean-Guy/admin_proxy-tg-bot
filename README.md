@@ -19,7 +19,7 @@
 
 ```bash
 # Клонируем репозиторий
-git clone https://github.com/yourname/proxy_bot.git
+git clone https://github.com/Just-Korean-Guy/admin_proxy-tg-bot.git
 cd proxy_bot
 
 # Устанавливаем зависимости
